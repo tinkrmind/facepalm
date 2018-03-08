@@ -1,5 +1,9 @@
 # facepalm
 
+## Vision
+
+The overarching design goal of this exercise is to promote inter student collaboration. Public knowledge is the first step to mutual trust and respect
+
 ### Getting student photos:
 
 Easily downloaded by downloading the source code of itp.nyu.edu/er/people (only accessible by staff) Don't tell Marlon!
@@ -41,3 +45,12 @@ Reference: https://www.fourmilab.ch/javascrypt/pass_phrase.html
 - Better user/password management
 - Use jQuery for form submission result
 - Rollover with webpage preview
+
+#### Thoughts on identifying student skills
+It's important to consider the diversity of student websites. The easiest way would be to crawl the site and collect all text, and process it through keyword detection to identify the type of project e.g. workshop, electronics, web, VR/AR, DIY, straight up coding.. But one also has to consider the fact that many people don't write extensive blogs and instead document projects via videos, gifs, photos, audio, javascript.. It'd be hard to train a n algorithm to recognise these media.
+
+Perhaps a better solutioon might be to use a peer to peer rating system like github. People could star their peers who help them with problems. This system would not only be much easier to implement but would also promote student collaboration and teaching. Ofcourse measures would be put in place to prevent people gaming the system by exchanging stars on a quid pro quo basis, but this is a solved problem and the community would self regulate in this aspect as well. It is best to have minimum intervention to build mutual trust in the system. This information could later on be useful for staff and resident selection. It would also provide a platform for outside parties like tandon students to identify points of connection at ITP.
+
+Identifying trending projects and people could also generate a self renewing news feed for ITP and the prospect of such attention would also push students to document their projects better. 
+
+The biggest problem most publishing platforms face is lack of fresh content. Content is expensive. But at ITP, we have quite the opposite problem. Students are generating great, novel content and are too busy to look for publishing avenues. The lack of attention to well documented projects demotivates further investment into documentation. ITP should be a publishing platform of it's own. Adjacent is a step in the right direction but curated magazines are slow and again, always wanting for tailored content. 
