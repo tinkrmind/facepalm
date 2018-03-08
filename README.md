@@ -40,3 +40,4 @@ Reference: https://www.fourmilab.ch/javascrypt/pass_phrase.html
 - Make a project search
 - Better user/password management
 - Use jQuery for form submission result
+- Rollover with webpage preview
