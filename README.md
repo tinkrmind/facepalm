@@ -1,6 +1,6 @@
 # facepalm
 
-##[Demo](http://as11613.itp.io:3000/)
+## [Demo](http://as11613.itp.io:3000/)
 
 ## Note:
 
