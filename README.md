@@ -1,5 +1,11 @@
 # facepalm
 
+##[Demo](http://as11613.itp.io:3000/)
+
+## Note:
+
+I am not providing the code because the student blog data is sensitive information that I do not wish to be misused.
+
 ## Vision
 
 The overarching design goal of this exercise is to promote inter student collaboration. Public knowledge is the first step to mutual trust and respect
